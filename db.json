@@ -1,0 +1,194 @@
+{
+  "students": [
+    {
+      "username": "Ahmed",
+      "email": "a@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Arabic",
+          "id": "9292",
+          "degree": 1
+        },
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 3
+        }
+      ],
+      "id": "ade9"
+    },
+    {
+      "username": "shady",
+      "email": "shady@gmail.com",
+      "password": "123",
+      "id": "1"
+    },
+    {
+      "username": "User2",
+      "email": "user2@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Arabic",
+          "id": "9292",
+          "degree": 1
+        },
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 3
+        }
+      ],
+      "id": "u29s"
+    },
+    {
+      "username": "Mohamed",
+      "email": "m@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 2
+        }
+      ],
+      "id": "980d"
+    },
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 2
+        }
+      ],
+      "id": "da88"
+    },
+    {
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 1
+        },
+        {
+          "name": "English",
+          "id": "7ac0",
+          "degree": 2
+        }
+      ],
+      "id": "efac"
+    },
+    {
+      "username": "ِALI",
+      "email": "ali@gmail.com",
+      "password": "123",
+      "subjects": [
+        {
+          "name": "Math",
+          "id": "f809",
+          "degree": 2
+        },
+        {
+          "name": "Arabic",
+          "id": "9292",
+          "degree": 0
+        },
+        {
+          "name": "physics",
+          "id": "d074",
+          "degree": 0
+        }
+      ],
+      "id": "e958"
+    }
+  ],
+  "doctor": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "id": "1"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Math",
+      "questions": [
+        {
+          "question": "2*2",
+          "answer1": "1",
+          "answer2": "2",
+          "answer3": "3",
+          "answer4": "4",
+          "correctAnswer": "4"
+        },
+        {
+          "question": "2*2",
+          "answer1": "1",
+          "answer2": "2",
+          "answer3": "3",
+          "answer4": "4",
+          "correctAnswer": "4"
+        }
+      ],
+      "id": "f809"
+    },
+    {
+      "id": "9292",
+      "name": "Arabic",
+      "questions": [
+        {
+          "question": "sdffffffffffffff",
+          "answer1": "a",
+          "answer2": "f",
+          "answer3": "d",
+          "answer4": "h",
+          "correctAnswer": "h"
+        },
+        {
+          "question": "sdfgfdjhygfj",
+          "answer1": "sdf",
+          "answer2": "sfd",
+          "answer3": "sdf",
+          "answer4": "sfd",
+          "correctAnswer": "sfd"
+        }
+      ]
+    },
+    {
+      "id": "d074",
+      "name": "physics",
+      "questions": [
+        {
+          "question": "question one",
+          "answer1": "1",
+          "answer2": "2",
+          "answer3": "3",
+          "answer4": "4",
+          "correctAnswer": "1"
+        },
+        {
+          "question": "question two",
+          "answer1": "1",
+          "answer2": "2",
+          "answer3": "3",
+          "answer4": "4",
+          "correctAnswer": "2"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "id": "1"
+    }
+  ]
+}
