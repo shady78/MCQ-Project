@@ -1,5 +1,3 @@
-
-https://github.com/shady78/MCQ-Project/assets/89072052/aa33131f-6df4-4382-89f8-f0c289620f73
 # MCQ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
