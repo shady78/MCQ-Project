@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Demo
 
-https://github.com/shady78/MCQ-Project/assets/89072052/c879e5b9-89b6-4526-a5c4-25aee9fbf05b
+
+https://github.com/shady78/MCQ-Project/assets/89072052/fade5c1e-9f95-4851-a8ed-75dca0d1bec9
+
+
 
 ## Development server
 
